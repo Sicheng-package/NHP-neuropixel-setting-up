@@ -11,7 +11,7 @@ This design refers to many open source solutions of NHP neuropixels, which are n
 # Bill of Material
 1.Long Stroke Rack and Pinion Type Manual Displacement Fine Adjustment Stage Precision[[Amazon](https://www.amazon.com/RAMBEX-Long-Travel-Precision-Dovetail-Fine-Tuning/dp/B0CN9JHCTR)]
 
-2.3D printed elements
+2.3D printed elements（Removable base stand）
 
 3.M3/M4 screws 
 
@@ -21,3 +21,14 @@ Except for the micro-manipulator, which needs to be purchased, all other parts c
 
 
 # Instructions
+Confirmation of the base. When you are ready to make a neuropixel operating system, you must first determine what kind of base to use and which brain areas need to be accurately recorded. This will determine whether you choose a movable base and how much space the base has. In this model, we used the four screws on the hat structure itself to fix it. This may inspire you to reserve some potential screw holes when making the hat.
+
+Complete the assembly of parts. The convenience of this model is that each component can be disassembled for 3D printing to try and error, so as to further adjust the overall model structure according to actual needs.
+
+
+# Further optimization
+As you can see, this model still has some problems, mainly because the micro-manipulation system is purchased for commercial use, resulting in a much larger actual space. 
+
+There is also room for further optimization of guidetude.
+
+If you have better ideas, you can contact me and we can discuss possible better solutions to solve these problems.
