@@ -10,8 +10,11 @@ This design refers to many open source solutions of NHP neuropixels, which are n
 
 # Bill of Material
 1.Long Stroke Rack and Pinion Type Manual Displacement Fine Adjustment Stage Precision[[Amazon](https://www.amazon.com/RAMBEX-Long-Travel-Precision-Dovetail-Fine-Tuning/dp/B0CN9JHCTR)]
+
 2.3D printed elements
+
 3.M3/M4 screws 
+
 4.1.0 metal cap holder
 
 Except for the micro-manipulator, which needs to be purchased, all other parts can be opened by opening the stl file and disassembling the required parts for 3D printing to make an initial attempt. All sizes and assembly schemes can be changed according to the differences of each component.
