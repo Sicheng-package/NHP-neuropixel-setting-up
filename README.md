@@ -31,4 +31,6 @@ As you can see, this model still has some problems, mainly because the micro-man
 
 There is also room for further optimization of guidetude.
 
-If you have better ideas, you can contact me and we can discuss possible better solutions to solve these problems.
+If you have better ideas, you can contact me（sicheng0209@gmail.com）and we can discuss possible better solutions to solve these problems.
+
+
