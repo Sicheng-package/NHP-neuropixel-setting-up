@@ -25,6 +25,7 @@ Confirmation of the base. When you are ready to make a neuropixel operating syst
 
 Complete the assembly of parts. The convenience of this model is that each component can be disassembled for 3D printing to try and error, so as to further adjust the overall model structure according to actual needs.
 
+WARNING：It should be noted that when you are ready to use the device, you need to first grind the cement inside the cap clean. Clean the electrode device, the inside of the cap, and the surface of the skull before placing the electrode.
 
 # Further optimization
 As you can see, this model still has some problems, mainly because the micro-manipulation system is purchased for commercial use, resulting in a much larger actual space. 
