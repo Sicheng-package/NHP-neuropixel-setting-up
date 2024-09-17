@@ -10,3 +10,9 @@ This design refers to many open source solutions of NHP neuropixels, which are n
 
 # Bill of Material
 1.
+
+
+
+
+
+# Instructions
