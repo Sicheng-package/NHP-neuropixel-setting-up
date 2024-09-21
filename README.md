@@ -4,8 +4,8 @@ If you are doing electrophysiology research in non-human primates, I hope this d
 This design refers to many open source solutions of NHP neuropixels, which are not listed here one by one. Our design is mainly aimed at some situations where dental cement may be used to fix the cap to the surface of the skull. Some further minor adjustments may be required during specific use.
 
 
+![WeChat6d1d441f4cfefb12e12fd96d2d83a671](https://github.com/user-attachments/assets/dd244580-cfd3-4d0b-bf4e-e28cf44b57c5)
 
-<img width="433" alt="截屏2024-09-17 20 08 11" src="https://github.com/user-attachments/assets/e18429cd-85cf-4a66-820b-023eec6aaddd">
 
 
 # Bill of Material
